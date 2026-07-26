@@ -1,1 +1,10 @@
-
+{
+    "VIP_Admin_1": [
+        {
+            "Cloud_Name": "ut7cibuf",
+            "Upload_Preset": "Aloktst",
+            "Upload_Enabled": true,
+            "Expiry_Date": "20260726"
+        }
+    ]
+}
